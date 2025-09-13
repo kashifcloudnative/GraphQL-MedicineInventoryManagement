@@ -1,4 +1,5 @@
 ******Created using Vibe coding******
+
 **GraphQL vs RESTful API in .NET and Angular Applications**
 Understanding the Core Differences
 GraphQL is a query language and runtime for APIs that allows clients to request exactly the data they need. REST is an architectural style that uses standard HTTP methods and multiple endpoints to manage resources.
