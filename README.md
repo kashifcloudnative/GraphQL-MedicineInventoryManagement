@@ -39,17 +39,4 @@ For .NET applications, GraphQL can be implemented using:
 
 
 
-Reference
-┌─────────────────────────────────────────────────────────┐
-│                    Hot Chocolate Platform               │
-├─────────────────────────────────────────────────────────┤
-│  Banana Cake Pop IDE  │  Strawberry Shake Client       │
-├─────────────────────────────────────────────────────────┤
-│              Hot Chocolate Server Core                  │
-├─────────────────────────────────────────────────────────┤
-│  Schema Builder │ Execution Engine │ Subscription Engine│
-├─────────────────────────────────────────────────────────┤
-│     ASP.NET Core Middleware │ Dependency Injection      │
-├─────────────────────────────────────────────────────────┤
-│  EF Core │ Redis │ MongoDB │ SQL Kata │ Custom Providers│
-└─────────────────────────────────────────────────────────┘
+<img width="497" height="351" alt="image" src="https://github.com/user-attachments/assets/450b9bc3-f32d-4737-9948-96434bdc1131" />
